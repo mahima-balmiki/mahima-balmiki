@@ -6,10 +6,6 @@ I'm a versatile backend developer with hands-on experience in various technologi
 
 ## ⭐ About Me
 
-```zsh
-> neofetch
-``` 
-
 ```yaml
 My Profile
 -----------------------------------------------------------
